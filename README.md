@@ -5,15 +5,17 @@
 
 ### Glad to see you here!  
 I’m a frone-end developer freelancer content creator. 
-I specialize in building wordpress themes PWAs web apps.   
+I specialize in building wordpress themes PWAs web Apps with Vuejs.   
   
 
 
 
 ### YOU CAN FIND ME IN:  
+
 <a href="https://github.com/emadworks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/emadworks" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -31,24 +33,11 @@ I specialize in building wordpress themes PWAs web apps.
 </a>  
   
 
-  
-  
 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+  
 
 
 ## Languages and Tools  
@@ -69,11 +58,8 @@ I specialize in building wordpress themes PWAs web apps.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emadworks&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
